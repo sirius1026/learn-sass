@@ -1,0 +1,11 @@
+@import 'reuse';
+
+section {
+    height: 300px;
+}
+
+header, footer {
+    margin-left: 200px;
+    height: 100px;
+    background-color: papayawhip;
+}
